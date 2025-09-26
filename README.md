@@ -1,3 +1,5 @@
+Once again, this project is a modified version of the one by Godotneers, changed to work with later versions of Godot
+
 # Learning to program with Godot - Part 2
 
 <p align="center">
